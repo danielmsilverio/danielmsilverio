@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Sou o Daniel Silvério 😁 Seja bem vindo ao meu repositório 👋
 
-<!--
-**danielmsilverio/danielmsilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🚧 _PÁGINA EM DESENVOLVIMENTO_ 🚧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalho com Backend
+- 🌱 Estudando mais sobre Python, Elixir, IA e Observabilidade
+- 📫 Pode me contactar pelo email: danielmsilverio@gmail.com
+- 😄 Pronouns: ele/dele
+- 🎲 Hobby: boardgames
+
+<div style="dispaly: inline_block"><br>
+  <img align="center" height="30 width="40" alt="Daniel-Elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg" />
+  <img align="center" height="30 width="40" alt="Daniel-Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="30 width="40" alt="Daniel-AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</div>
